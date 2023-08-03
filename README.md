@@ -1,3 +1,9 @@
+# Horiseon-Refactor
+
+[Github Link](daleray1231.github.io/class_work)
+
+![Alt text](image.png)
+
 # User Story
 AS A marketing agency  
 
@@ -28,7 +34,3 @@ THEN they fall in sequential order
 WHEN I view the title element  
 
 THEN I find a concise, descriptive title  
-
-[Github Link](daleray1231.github.io/class_work)
-
-![Alt text](image.png)
