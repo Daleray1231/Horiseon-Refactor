@@ -1,6 +1,6 @@
 # Horiseon
 
-
+Refractor code for optimization.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
 
 ## About
 
-Optimize website for search engines and allow for easy accessability.
+Improve code to meet accessability standards and optimize search engine results.
 
 ## Features
 
