@@ -4,7 +4,7 @@
 
 ![Alt text](image.png)
 
-# User Story
+<!-- # User Story
 AS A marketing agency  
 
 I WANT a codebase that follows accessibility standards  
@@ -33,4 +33,4 @@ THEN they fall in sequential order
 
 WHEN I view the title element  
 
-THEN I find a concise, descriptive title  
+THEN I find a concise, descriptive title   -->
