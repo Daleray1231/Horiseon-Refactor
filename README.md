@@ -1,74 +1,47 @@
 # Horiseon
 
-Refractor code for optimization.
+Welcome to the Horiseon website! This website provides information about online marketing services and strategies offered by Horiseon Social Solution Services, Inc.
 
-## Table of Contents
+## Description
 
-- [About](#about)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## About
-
-Improve code to meet accessability standards and optimize search engine results.
+Horiseon is a website that introduces you to the world of online marketing. The website highlights three key services: Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing.
 
 ## Features
 
-List the key features and functionalities of your project. You can use bullet points for this section.
+### Search Engine Optimization
 
-## Getting Started
+Learn how to improve your website's search ranking and attract the right customers through effective SEO strategies.
 
-Provide instructions on how to set up the project locally. Include any prerequisites, installation steps, and configuration that might be needed.
+### Online Reputation Management
 
-## Usage
+Discover how Online Reputation Management can help you take control of what potential customers see when they search for your business.
 
-Provide examples or instructions on how to use your project. You can include code snippets, screenshots, or even GIFs to showcase the usage.
+### Social Media Marketing
+
+Explore how Social Media Marketing can enhance brand awareness and lead generation by connecting with your target audience.
+
+## Benefits
+
+The Horiseon website emphasizes the following benefits:
+
+- **Lead Generation:** Inbound strategies bring customers to your website, increasing your chances of converting them into clients.
+
+- **Brand Awareness:** Improve your business's visibility and search ranking, helping potential customers discover your brand.
+
+- **Cost Management:** As your search ranking improves, your advertising costs decrease, allowing you to manage your marketing budget.
 
 ## Contributing
 
-Explain how others can contribute to your project. This could include guidelines for pull requests, coding standards, and how to report issues.
+Starter code source: https://github.com/coding-boot-camp/urban-octo-telegram
+
+Github Page: https://daleray1231.github.io/Horiseon-Refactor
+
+## Footer
+
+The website is made with ❤️️ by Horiseon Social Solution Services, Inc.
+
+&copy; 2023 Horiseon Social Solution Services, Inc.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-https://github.com/coding-boot-camp/urban-octo-telegram
-
----
-[Github Link](daleray1231.github.io/class_work)
-
-![Alt text](image.png)
-
-<!-- # User Story
-AS A marketing agency  
-
-I WANT a codebase that follows accessibility standards  
-
-SO THAT our own site is optimized for search engines  
-
-# Acceptance Criteria
-GIVEN a webpage meets accessibility standards  
-
-WHEN I view the source code  
-
-THEN I find semantic HTML elements  
-
-WHEN I view the structure of the HTML elements  
-
-THEN I find that the elements follow a logical structure   
-independent of styling and positioning
-
-WHEN I view the image elements
-
-THEN I find accessible alt attributes  
-
-WHEN I view the heading attributes  
-
-THEN they fall in sequential order  
-
-WHEN I view the title element  
-
-THEN I find a concise, descriptive title   -->
