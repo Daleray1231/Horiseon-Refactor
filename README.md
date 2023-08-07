@@ -34,9 +34,9 @@ The Horiseon website emphasizes the following benefits:
 
 Starter code source: https://github.com/coding-boot-camp/urban-octo-telegram
 
-Github Page: https://daleray1231.github.io/Horiseon-Refactor
-
 ## Footer
+
+Github Page: https://daleray1231.github.io/Horiseon-Refactor
 
 The website is made with ❤️️ by Horiseon Social Solution Services, Inc.
 
@@ -47,3 +47,4 @@ The website is made with ❤️️ by Horiseon Social Solution Services, Inc.
 This project is licensed under the [MIT License](LICENSE).
 
 ![Alt text](image.png)
+
