@@ -1,5 +1,7 @@
 # Horiseon
 
+![alt text](<assets/images/Opera Snapshot_2024-02-04_132155_daleray1231.github.io.png>)
+
 Welcome to the Horiseon website! This website provides information about online marketing services and strategies offered by Horiseon Social Solution Services, Inc.
 
 ## Description
@@ -32,11 +34,13 @@ The Horiseon website emphasizes the following benefits:
 
 ## Contributing
 
-Starter code source: https://github.com/coding-boot-camp/urban-octo-telegram
+[GitHub Repository](https://github.com/daleray1231/Horiseon-Refactor)
+
+[Starter Code Source](https://github.com/coding-boot-camp/urban-octo-telegram) 
 
 ## Footer
 
-Github Page: https://daleray1231.github.io/Horiseon-Refactor
+[Github Page](https://daleray1231.github.io/Horiseon-Refactor)
 
 The website is made with ❤️️ by Horiseon Social Solution Services, Inc.
 
@@ -46,5 +50,5 @@ The website is made with ❤️️ by Horiseon Social Solution Services, Inc.
 
 This project is licensed under the [MIT License](LICENSE).
 
-![Alt text](image.png)
+
 
